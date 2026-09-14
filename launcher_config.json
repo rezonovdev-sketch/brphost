@@ -4,7 +4,7 @@
   "background_url": "",
 
   "urls": {
-    "cdn": "http://wh34659.web2.maze-tech.ru/brilliant-cdn/",
+    "cdn": "https://wh34659.web2.maze-tech.ru/brilliant-cdn/",
     "donate": "https://vk.ru/revzak",
     "forum": "https://vk.ru/revzak",
     "support": "https://vk.ru/revzak",
@@ -36,8 +36,8 @@
 
   "cache": {
     "enabled": true,
-    "api_url": "http://wh34659.web2.maze-tech.ru/brilliant-cdn/api.json/",
-    "files_url": "http://wh34659.web2.maze-tech.ru/brilliant-cdn/files/"
+    "api_url": "https://wh34659.web2.maze-tech.ru/brilliant-cdn/api.json/",
+    "files_url": "https://wh34659.web2.maze-tech.ru/brilliant-cdn/files/"
   },
 
   "version": {
